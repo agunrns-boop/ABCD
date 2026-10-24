@@ -1,0 +1,6 @@
+{
+  "name": "ABCD - The Star Card Trading Game",
+  "description": "Fast-paced card trading game where players rush to collect all 4 of their assigned letters while the mystery star card keeps sets incomplete.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
